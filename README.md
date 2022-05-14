@@ -8,4 +8,4 @@ What is **Markdown** and What is the _usage_ of it?
 # What the are the benifits of using Github in writing documents? 
 - Track changes in your code
 - It is an open source project, which means, everyone can contribute
-- It is integrated with Static Site Generator like Jekyll.
+- It is integrated with Static Site Generator like Jekyll (https://jekyllrb.com/)
