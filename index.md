@@ -15,7 +15,7 @@
 person: Sneha
 hobby: Reading
 country: India
-layout: templates
+layout: templates.html
 ---
 
 # Introduction
