@@ -1,3 +1,10 @@
+---
+person: Sneha
+hobby: Reading
+country: India
+layout: templates
+---
+
 # symmetrical-meme
 ## Demo Repo for Docs-as-Code
 
@@ -11,12 +18,6 @@
 - It is an open source project, which means, everyone can contribute.
 - It is integrated with Static Site Generator like [Jekyll](https://jekyllrb.com/).
 
----
-person: Sneha
-hobby: Reading
-country: India
-layout: templates.html
----
 
 # Introduction
 
