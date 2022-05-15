@@ -27,4 +27,4 @@ Hi, I am {{page.person}}, my hobby is {{page.hobby}} and I am from {{page.countr
 
 {% for item in site.data.Sneha %}
 - {{item.name}}, {{item.year}}, {{item.place}}
-{% endfot %}
+{% endfor %}
