@@ -12,12 +12,10 @@
 - It is integrated with Static Site Generator like [Jekyll](https://jekyllrb.com/).
 
 ---
-
 person: Sneha Hijam
 hobby: Reading
 country: India
 layout: template_file
-
 ---
 
 # Introduction
