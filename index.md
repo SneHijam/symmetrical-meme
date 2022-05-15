@@ -18,6 +18,13 @@ country: India
 layout: templates
 ---
 
+
 # Introduction
 
 Hi, I am {{page.person}}, my hobby is {{page.hobby}} and I am from {{page.country}}.
+
+# Data
+
+{% for item in site.data.Sneha %}
+- {{item.name}}, {{item.year}}, {{item.place}}
+{% endfot %}
