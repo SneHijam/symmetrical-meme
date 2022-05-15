@@ -15,7 +15,7 @@
 person: Sneha Hijam
 hobby: Reading
 country: India
-layout: template_file
+layout: templates
 ---
 
 # Introduction
