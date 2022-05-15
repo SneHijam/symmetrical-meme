@@ -12,13 +12,9 @@
 - It is integrated with Static Site Generator like [Jekyll](https://jekyllrb.com/).
 
 ---
-person: Sneha Hijam
-hobby: Reading
-country: India
+Person: Sneha Hijam
+Hobby: Reading
+Country: India
 ---
 
-# Jekyll
-
-{{page.person}}
-{{page.hobby}}
-{{page.country}}
+Hi, I am {{page.Person}}, my hobby is {{page.Hobby}} and I am from {{page.Country}}.
