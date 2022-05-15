@@ -16,7 +16,10 @@
 person: Sneha Hijam
 hobby: Reading
 country: India
+layout: template_file
 
 ---
+
+# Introduction
 
 Hi, I am {{page.person}}, my hobby is {{page.hobby}} and I am from {{page.country}}.
