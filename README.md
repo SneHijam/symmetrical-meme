@@ -1,3 +1,6 @@
+# Readme
+This is the Readme file, which contains the usage of Markdown, Jekyll using Github.
+
 # symmetrical-meme
 ## Demo Repo for Docs-as-Code
 
